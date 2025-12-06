@@ -1,0 +1,25 @@
+{
+    "ScriptDirectoryBase":"C:\\path\\to\\project\\folder\\",
+    "servers":[
+        {
+            "name":"localhost"
+			,"group":"local"
+            ,"sql_version":"2025"
+        },
+        {
+            "name":"CUST1PROD"
+			,"group":"customer1"
+            ,"sql_version":"2022"
+        },
+        {
+            "name":"CUST1QA"
+			,"group":"customer1"
+            ,"sql_version":"2022"
+        },
+        {
+            "name":"CUST1DEV"
+			,"group":"customer1"
+            ,"sql_version":"2022"
+        }
+    ]
+}

@@ -29,3 +29,8 @@ obj/
 *.bak
 *.log
 
+# Windows files
+desktop.ini
+
+# Configuration files
+Config.json
